@@ -7,6 +7,6 @@ Config files for Searx server on Digital Ocean droplet
 
 # Additional Info:
 
-- If you folloe my video on setting up Searx using nginx, you can use this command to refresh server once settings are changed in settings.yml or searx.ini
+- If you follow my video on setting up Searx using nginx, you can use this command to refresh server once settings are changed in settings.yml or searx.ini
       '$ sudo -H service uwsgi restart searx'
 - Instruction to acquire Youtube API for settings.yml to improve results. See this site here: https://rapidapi.com/blog/how-to-get-youtube-api-key/
