@@ -1181,6 +1181,7 @@ engines:
     engine : yahoo_news
     shortcut : yhn
 
+# ATTENTION: Highly recommend you follow the steps to generate an official API key. Web link is below. Once you uncomment line 1189, 1190 by removing #, proceed to comment out 1192.
   - name : youtube
     shortcut : yt
     # You can use the engine using the official stable API, but you need an API key
